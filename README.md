@@ -3,18 +3,18 @@
 I'm Bogdan, a data scientist with 3 years of experience in developing AI systems.
 
 🎯 My main focus areas are:
-• Automated machine learning
-• Anomaly detection
-• Recommender systems
-• Natural language processing
-• Computer vision
-• Generative AI
-• Forecasting models
+- Automated machine learning
+- Anomaly detection
+- Recommender systems
+- Natural language processing
+- Computer vision
+- Generative AI
+- Forecasting models
 
 📖 I'm currently sharpening my:
-• Deep learning skills
-• Generative AI expertise
-• Knowledge of statistics
+- Deep learning skills
+- Generative AI expertise
+- Knowledge of statistics
 
 📫 Feel free to contact me at b.mihaibogdan@yahoo.com.
 
