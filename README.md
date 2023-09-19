@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div style="text-align: justify"> I'm Bogdan, a data scientist with three years of experience in developing AI systems. Currently, I'm on an academic journey, pursuing a Master's in Data Science at the University of Twente, where I'm constantly expanding my knowledge and refining my skills in the realm of data-driven insights. </div>
+I'm Bogdan, a data scientist with three years of experience in developing AI systems. Currently, I'm on an academic journey, pursuing a Master's in Data Science at the University of Twente, where I'm constantly expanding my knowledge and refining my skills in the realm of data-driven insights.
 
 🎯 My main focus areas are:
 - Automated machine learning
