@@ -1,19 +1,20 @@
 ### Hi there 👋
 
-I'm Bogdan, a data scientist with three years of experience in developing AI systems. Currently, I'm on an academic journey, pursuing a Master's in Data Science at the University of Twente, where I'm constantly expanding my knowledge and refining my skills in the realm of data-driven insights.
+I'm Bogdan, a data scientist with over 4 years of experience building AI systems. I'm currently working as a freelance data science consultant while pursuing a Master's in Data Science at the University of Twente, where I'm continuously expanding my expertise.
 
 🎯 My main focus areas are:
-- Automated machine learning
-- Anomaly detection
-- Recommender systems
+- Large language models
 - Natural language processing
 - Computer vision
 - Generative AI
-- Forecasting models
+- Automated machine learning
+- Anomaly detection
+- Recommender systems
+- Time series forecasting
+- Predictive modeling
+  
+📖 I'm currently sharpening my skills in:
+- Deep learning
+- Large language models
 
-📖 I'm currently sharpening my:
-- Deep learning skills
-- Generative AI expertise
-- Knowledge of statistics
-
-📫 Feel free to reach out at b.mihaibogdan@yahoo.com for collaborations, discussions, or just to geek out about data science and AI.
+📫 Feel free to reach out at b.mihaibogdan@yahoo.com for collaborations and discussions!
